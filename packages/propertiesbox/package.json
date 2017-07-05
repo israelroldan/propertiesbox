@@ -1,0 +1,30 @@
+{
+  "name": "propertiesbox",
+  "version": "0.0.1-0",
+  "description": "A library to work with properties files",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/israelroldan/propertiesbox.git"
+  },
+  "keywords": [
+    "properties"
+  ],
+  "author": "Israel Roldan (propertiesbox@isro.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/israelroldan/propertiesbox/issues"
+  },
+  "homepage": "https://github.com/israelroldan/propertiesbox#readme",
+  "devDependencies": {
+    "assertly": "^1.0.2",
+    "mocha": "^3.4.2",
+    "nyc": "^11.0.3"
+  },
+  "dependencies": {
+    "phylo": "^1.0.0-beta.7"
+  }
+}

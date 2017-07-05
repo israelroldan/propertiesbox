@@ -1,0 +1,22 @@
+{
+  "name": "propertiesbox-workspace",
+  "version": "0.0.0",
+  "description": "📦 Utility library and CLI tool to transform properties files with ease",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/israelroldan/propertiesbox.git"
+  },
+  "author": "Israel Roldan (propertiesbox@isro.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/israelroldan/propertiesbox/issues"
+  },
+  "homepage": "https://github.com/israelroldan/propertiesbox#readme",
+  "scripts": {
+    "install": "lerna bootstrap"
+  },
+  "dependencies": {
+    "lerna": "^2.0.0-rc.5"
+  },
+  "private": true
+}
